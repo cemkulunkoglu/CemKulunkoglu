@@ -4,7 +4,7 @@ I'm a **Computer Engineer & Full-Stack Developer** based in Istanbul, Türkiye,
 specializing in **Backend Systems, Event-Driven Architectures, and Scalable SaaS Platforms**.
 
 - 🚀 Currently working as a **Full-Stack Developer at Dijital Kafa**
-- 🧠 Focused on **.NET 8, Clean Architecture, CQRS, and Microservices**
+- 🧠 Focused on **.NET, Clean Architecture, CQRS, and Microservices**
 - ⚡ Experienced in **real-time systems** using RabbitMQ & SignalR
 - 📱 Building cross-platform mobile apps with **React Native & Expo**
 - 🎓 M.Sc. student in Computer Education & Instructional Technologies
