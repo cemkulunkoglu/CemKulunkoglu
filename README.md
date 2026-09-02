@@ -61,7 +61,7 @@ specializing in **Backend Systems, Event-Driven Architectures, and Scalable SaaS
   <a href="mailto:cemkulunkoglu@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://cemkulunkoglu.site">
+  <a href="https://cemkulunkoglu.com">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
