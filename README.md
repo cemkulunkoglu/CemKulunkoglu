@@ -6,9 +6,10 @@ building **scalable .NET backends, event-driven systems, and subscription iOS ap
 - 🚀 **Full-Stack Developer at Dijital Kafa** (previously Front-End Developer at FG Devhouse)
 - 🧠 Focused on **.NET 10, Clean Architecture, CQRS, and Microservices**
 - ⚡ Building **real-time systems** with RabbitMQ & SignalR
+- 📱 Building cross-platform and native iOS apps with **React Native/Expo, Swift & Flutter**
 - 🤖 Integrating **generative AI** (Claude API, fal.ai) into production apps
 - 🎓 M.Sc. student in Computer Education & Instructional Technologies
-- 🤿 CMAS 3★ Diver, which explains all the marine & dive apps
+- 🤿 CMAS 3★ Diver
 
 ---
 
@@ -55,7 +56,7 @@ building **scalable .NET backends, event-driven systems, and subscription iOS ap
 
 ## 💼 Professional Highlights
 
-- **App Store:** Shipped and maintain 2 subscription iOS apps (RevenueCat), with native Swift features (Apple Watch, Live Activities, Critical Alerts) and up to 12 localizations.
+- **Mobile:** Build and maintain subscription-based iOS apps with RevenueCat, native Swift extensions (Apple Watch, Live Activities) and multi-language support.
 - **Microservices:** Built .NET 8 microservices (auth server, API gateway, chat & messaging services) communicating over **RabbitMQ**.
 - **Real-time:** Delivered live features such as presence, activity feeds and chat with **SignalR**.
 - **AI Pipelines:** Built story-to-comic generation with **Claude API + fal.ai**, orchestrated by Supabase Edge Functions.
